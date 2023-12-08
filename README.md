@@ -29,10 +29,10 @@ python demo_constrained_blip2.py
 - `test_constrained_blip2.py` : constrained blip2 result for cic dataset in `./cic_data`
     - result to be saved in `./result.json`
 - `demo_constrained_blip2.py` : demo for constrained blip2
-- `generate_blip2.py` : generate code for blip (from Huggingface)
-- `generate_lm.py` : generate code for language part of blip (from Hugginface)
+- `generate_blip2.py` : generate code for blip2 (from Huggingface)
+- `generate_lm.py` : generate code for language part of blip2 (from Hugginface)
 - `constrained_beam_search.py` : constrained decoding part (from NeuroLogic Decoding)
-- `topK.py`, `lexical_constraints.py` : utils for NeuroLogic Decoding
+- `topK.py`, `lexical_constraints.py` : utils for NeuroLogic Decoding (from NeuroLogic Decoding)
 
 ## Reference
 - NeuroLogic Decoding (Lu et al.) : https://github.com/GXimingLu/neurologic_decoding
