@@ -67,13 +67,13 @@ if __name__ == "__main__":
     fx = Runner()
 
     result = {}
-    with open('./data/cic.json') as f:
+    with open('./cic_data/cic.json') as f:
         cic = json.load(f)
     
     for fileName in tqdm(list(cic.keys())):
         result[fileName] = {}
         constraints_list = [[[" "+const] for const in cic[fileName]['constraint']]]
-        res1, res2 = fx(image_path='./data/images/'+fileName, constraints_list=constraints_list)
+        res1, res2 = fx(image_path='./cic_data/images/'+fileName, constraints_list=constraints_list)
 
         result[fileName]['without constraint'] = res1
         result[fileName]['with constraint'] = res2

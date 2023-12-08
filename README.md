@@ -15,7 +15,7 @@ Member: 안민용, 전재현, 강종서
 ```
 pip install -r requirements.txt
 ```
-(2-1) Test on dataset (in `data` folder)
+(2-1) Test on dataset (in `cic_data` folder)
 ```
 python test_constrained_blip2.py
 ```
@@ -26,8 +26,8 @@ python demo_constrained_blip2.py
 - Access http://localhost:7860 (gradio)
 
 ## File Description
-- `test_constrained_blip2.py` : constrained blip2 result for cic dataset in `./data`
-    - result saved in `result.json`
+- `test_constrained_blip2.py` : constrained blip2 result for cic dataset in `./cic_data`
+    - result to be saved in `./result.json`
 - `demo_constrained_blip2.py` : demo for constrained blip2
 - `generate_blip2.py` : generate code for blip (from Huggingface)
 - `generate_lm.py` : generate code for language part of blip (from Hugginface)
