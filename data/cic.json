@@ -1,0 +1,122 @@
+{
+  "action/1.jpg": {
+    "constraint": ["office"],
+    "caption": "A woman in retro business attire, confidently walking down an office corridor while talking on the phone, a scene reminiscent of the 90s business hustle."
+  },
+  "action/2.jpg": {
+    "constraint": ["green"],
+    "caption": "Lying in repose on the green whispers of grass, a reader finds solace beneath the poetic veil of words, the book \"Just Kids\" by Patti Smith serving as a makeshift visor against the realm of sight, transporting them into a world woven from the very fabric of dreams and ink."
+  },
+  "action/3.jpg": {
+    "constraint": ["newborn"],
+    "caption": "Peaceful Slumber: A newborn baby wrapped in a soft pink blanket, sleeping on a cloud-like white bed, embodying the innocence and tranquility of early life."
+  },
+  "action/4.jpg": {
+    "constraint": ["urban"],
+    "caption": "A food delivery person gliding through the city on an electric scooter, the urban landscape stretching out behind them, ready to deliver the next meal swiftly and eco-friendly."
+  },
+  "action/5.jpg": {
+    "constraint": ["baseball"],
+    "caption": "A group of spectators, comfortably seated in portable chairs, enjoys a sunny day out watching a local baseball game, set against the backdrop of a school building. The scene is casual and relaxed, with the focus of attention clearly on the game, as indicated by the direction of the onlookers' gaze. The blue sky hints at a perfect day for outdoor sports, and the presence of various bags and equipment adds to the authenticity of a community sporting event."
+  },
+  "action/6.jpg": {
+    "constraint": ["photographer"],
+    "caption": "A photographer captures the serene beauty of a majestic mountain landscape, with the tranquil turquoise waters of a lake reflecting the grandeur of the snow-capped peaks."
+  },
+  "action/7.jpg": {
+    "constraint": ["mask", "cup"],
+    "caption": "A man in a blue shirt and a face mask is working on his laptop, which is showing numerous video call participants, indicative of a virtual meeting. There is a cup of coffee on the desk, suggesting a work-from-home setup or a break in an office environment. The room is well-lit, with natural light coming from the window on the left, and there's a framed picture on the wall, adding a touch of personalization to the space."
+  },
+  "action/8.jpg": {
+    "constraint": ["sleeping"],
+    "caption": "Two cats sprawled out in a synchronized sleeping session, with a remote control between them, as if they've just dozed off after a marathon of their favorite show."
+  },
+  "action/9.jpg": {
+    "constraint": ["sky", "sea"],
+    "caption": "A surfer rides a dynamic wave, showcasing skill and balance against the backdrop of a clear blue sky and sea."
+  },
+  "action/10.jpg": {
+    "constraint": ["cell"],
+    "caption": "A man in a black athletic outfit is seated and looking at his smartphone, with a focused expression, while a woman in the background is doing pull-ups on a gym's outdoor rig. The scene suggests a juxtaposition of leisure and activity, possibly highlighting a break in the man's workout or multitasking during exercise time. The environment is outdoors with clear skies."
+  },
+  "composition/1.jpg": {
+    "constraint": ["ornaments"],
+    "caption": "A cozy holiday scene with a warmly lit Christmas tree, adorned with colorful ornaments and flanked by a festive fireplace where stockings hang in anticipation of Santa's visit."
+  },
+  "composition/2.jpg": {
+    "constraint": ["hands"],
+    "caption": "A person at a tidy workstation with a laptop, an additional keyboard, and a notebook, possibly in the middle of a work session or study routine."
+  },
+  "composition/3.jpg": {
+    "constraint": ["plush"],
+    "caption": "A curated corner of nostalgia and modernity, where passions for gaming, space exploration, and colorful artistry coalesce on wooden shelves, guarded by a family of whimsical plush guardians and crowned by a symphony of vibrant book spines."
+  },
+  "composition/4.jpg": {
+    "constraint": ["ribbon"],
+    "caption": "A gentle moment of warmth: slender fingers clutch a single lit match, casting a soft glow amidst festive preparations. A neatly wrapped gift adorned with a lush green ribbon promises joy, while a flickering candle whispers of cozy evenings. In the background, fresh evergreen sprigs lay scattered, their piney scent mingling with the anticipation in the air. A whisper of holiday magic is kindled in this simple, yet intimate act of lighting a match."
+  },
+  "composition/5.jpg": {
+    "constraint": ["camera"],
+    "caption": "A minimalist and stylish home office setup with a clean white desk, showcasing a modern monitor with a stunning nature wallpaper, a sleek laptop, professional DSLR camera on a tripod, and neatly arranged personal items including a notepad, pen, watch, wallet, and wireless mouse. A vibrant orange artwork with a white bird adds a pop of color to the serene space."
+  },
+  "composition/6.jpg": {
+    "constraint": ["plants"],
+    "caption": "A modern and minimalist home office setup with a sleek wooden desk housing a large monitor, a tablet, a desk lamp, and various desk accessories against a backdrop of sheer white curtains. The space is complemented by vibrant houseplants adding a touch of greenery, creating a clean and productive workspace."
+  },
+  "composition/7.jpg": {
+    "constraint": ["board"],
+    "caption": "A serene still life composition with a full-bodied red wine in an elegant glass, accompanied by an uncorked bottle and a selection of gourmet cheese on a wooden board, all set against a rich, dark backdrop."
+  },
+  "composition/8.jpg": {
+    "constraint": ["fork", "olives"],
+    "caption": "A nutritious and enticing salad gracefully assembled on a black plate, featuring crisp greens, shredded carrots, plump cherry tomatoes, rings of red onion, and pitted black olives, all garnished with a handful of crunchy walnuts. To the side, a fork lies ready for the first bite. This healthful feast is paired with a glass of fresh orange juice and wedges of orange, adding a burst of citrus vibrancy to the scene."
+  },
+  "composition/9.jpg": {
+    "constraint": ["apple", "strawberry"],
+    "caption": "This image depicts a still life arrangement consisting of a shiny red apple, a pair of ripe strawberries, two yellow lemons with their green leaves attached, and a clear glass of water, all resting on a wooden surface against a warm, beige backdrop."
+  },
+  "composition/10.jpg": {
+    "constraint": ["glasses"],
+    "caption": "A quiet moment for reflection: glasses set aside on an open journal, ready to capture the day's thoughts, next to a comforting cup of tea."
+  },
+  "landscape/1.jpg": {
+    "constraint": ["leaves"],
+    "caption": "Spring's gentle touch graces a quiet street: leaves budding green, a cherry blossom tree in full bloom, softening the sturdy brick facades with a promise of renewal."
+  },
+  "landscape/2.jpg": {
+    "constraint": ["riverscape"],
+    "caption": "Suspended in Serenity: Feet up, embracing the gentle sway of water beneath, as the golden hour casts a warm glow on a tranquil riverscape."
+  },
+  "landscape/3.jpg": {
+    "constraint": ["gull"],
+    "caption": "A serene dusk: gulls glide over a golden beach, where the setting sun kisses the ocean's horizon, igniting the sky with a fiery canvas of orange hues. Clouds are scattered across the sky, bathed in the fading light, while the gentle waves whisper secrets to the shore."
+  },
+  "landscape/4.jpg": {
+    "constraint": ["markers"],
+    "caption": "A winding road stretches into the distance, cutting through a vast landscape with patches of snow. The road's curving path is bordered by orange markers, contrasting with the muted tones of the surrounding terrain. In the backdrop, formidable mountains, their peaks shrouded in snow, stand as silent sentinels under a cloudy sky, completing a scene of wild, untouched beauty."
+  },
+  "landscape/5.jpg": {
+    "constraint": ["leaves"],
+    "caption": "In the serene embrace of autumn, a misty lake reflects the delicate dance of seasons. Trees, rooted in history, stand sentinel—some cloaked in the warmth of golden leaves, while others bear the stark beauty of time-worn stumps. The morning light filters through the fog, casting an ethereal glow over this tranquil woodland sanctuary."
+  },
+  "landscape/6.jpg": {
+    "constraint": ["trees"],
+    "caption": "A hidden gem nestled in the arms of nature, this majestic waterfall cascades down a rugged cliff face, creating a misty ambiance as it merges with the stream below. The surrounding forest stands as a silent guardian, its dense greenery a testament to the untamed beauty of the wilderness. This serene spot, untouched and pure, invites the tranquil sound of water to echo through the trees, offering a sanctuary for both the wildlife that calls it home and the fortunate souls who stumble upon this natural wonder."
+  },
+  "landscape/7.jpg": {
+    "constraint": ["cabin"],
+    "caption": "A secluded lakeside cabin nestled in the hush of twilight; its windows aglow with warm light, offering a beacon of coziness amidst the encroaching embrace of the dark, whispering woods."
+  },
+  "landscape/8.jpg": {
+    "constraint": ["poppies", "desert"],
+    "caption": "A person crouched down, tenderly touching a small cluster of vibrant orange poppies, with the simplicity of the desert landscape around them hinting at the resilient beauty of nature."
+  },
+  "landscape/9.jpg": {
+    "constraint": ["rock", "ceiling"],
+    "caption": "A cascade of glacial water plummets down a rugged cliff face, its frothy currents cutting through the ice and rock with relentless force. The enclosing ice cave, with its undulating blue ceiling, frames this dynamic spectacle, casting a cool, ethereal glow over the chaos of broken ice below where nature's raw power is both frozen in time and ceaselessly in motion"
+  },
+  "landscape/10.jpg": {
+    "constraint": ["camels"],
+    "caption": "A journey back in time: Camels traverse the timeless sands before the Great Pyramid, a testament to ancient human ingenuity and endurance under the vast Egyptian sky."
+  }
+}

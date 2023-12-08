@@ -1,0 +1,12 @@
+ipython==7.21.0
+pandas==1.1.5
+tensorboard==2.4.1
+tensorboardX==2.1
+transformers==4.27.4
+torch==1.13.1
+gradio
+pillow
+scipy
+accelerate
+bitsandbytes
+protobuf==3.19.0
